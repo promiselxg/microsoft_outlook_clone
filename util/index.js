@@ -1,0 +1,38 @@
+import {
+  FiMail,
+  FiUsers,
+  FiPaperclip,
+  FiSettings,
+  FiVideo,
+  FiTrash2,
+  FiArchive,
+  FiSend,
+  FiMinusCircle,
+  FiEdit2,
+  FiCheckSquare,
+  FiBell,
+  FiMenu,
+  FiMoreHorizontal,
+  FiChevronRight,
+  FiChevronDown,
+  FiCornerUpLeft,
+  FiThumbsUp,
+  FiTag,
+  FiClock,
+} from 'react-icons/fi';
+import {
+  FaPaperPlane,
+  FiUFaRegCalendarAlters,
+  FaQuestion,
+  FaRegCheckCircle,
+  FaRegEnvelopeOpen,
+  FaRegFolder,
+  FaEllipsisH,
+  FaArchive,
+  FaBan,
+  FaReply,
+  FaReplyAll,
+  FaSearch,
+} from 'react-icons/fa';
+
+import { FcCheckmark } from 'react-icons/fc';
