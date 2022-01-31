@@ -1,11 +1,13 @@
-import { Footer, Navbar } from './index';
+import { Header, Navbar } from './index';
 
 const Layout = ({ children }) => {
   return (
     <>
-      <Navbar />
-      {children}
-      <Footer />
+      <Header />
+      <div className="wrapper">
+        <Navbar />
+        {children}
+      </div>
     </>
   );
 };

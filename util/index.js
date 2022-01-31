@@ -1,4 +1,4 @@
-import {
+export {
   FiMail,
   FiUsers,
   FiPaperclip,
@@ -20,7 +20,7 @@ import {
   FiTag,
   FiClock,
 } from 'react-icons/fi';
-import {
+export {
   FaPaperPlane,
   FiUFaRegCalendarAlters,
   FaQuestion,
@@ -35,4 +35,5 @@ import {
   FaSearch,
 } from 'react-icons/fa';
 
-import { FcCheckmark } from 'react-icons/fc';
+export { FcCheckmark } from 'react-icons/fc';
+export { BiConversation, BiMessageCheck } from 'react-icons/bi';

@@ -1,7 +1,7 @@
 const Navbar = () => {
   return (
     <nav>
-      <h1>Navigation Menu</h1>
+      <h1>Side bar</h1>
     </nav>
   );
 };

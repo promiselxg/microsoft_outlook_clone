@@ -1,6 +1,4 @@
 import Head from 'next/head';
-import { useSession, signIn, signOut } from 'next-auth/react';
-
 const Home = () => {
   return (
     <>
